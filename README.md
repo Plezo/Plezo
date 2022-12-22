@@ -12,7 +12,7 @@
 <a href="https://linkedin.com/in/plezo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="plezo" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">What I work with:</h3>
+<h3 align="left">I work with:</h3>
 <div class="grid-container">
   <div class="grid-item">
     <h4>Languages</h4>
