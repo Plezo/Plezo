@@ -1,11 +1,13 @@
-<h1 align="center">Hi there 👋, I'm Patryk</h1>
-<h3 align="center">Software Engineer & Full Stack Developer</h3>
+<h1>Hi there 👋, I'm Patryk</h1>
+<h3>Software Engineer & Full Stack Developer</h3>
 
 - 🔭 I’m currently working on [Fitkeeping (Workout Tracker)](https://github.com/Plezo/Fitkeeping)
 
 - 🌱 I’m currently learning **Swift and Scala**
 
-- 👨‍💻 All of my projects are available at [https://plezo.me/](https://plezo.me/)
+- I want to eventually learn **Flask and Tensorflow**
+
+- 👨‍💻 You can find my portfolio at: [https://plezo.me/](https://plezo.me/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
