@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Fitkeeping (Workout Tracker)](https://github.com/Plezo/Fitkeeping)
 
-- 🌱 I’m currently learning **Swift**
+- 🌱 I’m currently learning **Swift and Elixir (with Phoenix)**
 
 - 👨‍💻 You can find my portfolio at: [https://plezo.me/](https://plezo.me/)
 
