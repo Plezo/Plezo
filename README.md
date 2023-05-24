@@ -1,7 +1,7 @@
 <h1>Hi there 👋, I'm Patryk</h1>
 <h3>Software Engineer & Full Stack Developer</h3>
 
-- 🔭 I’m currently working on [Fitkeeping (Workout Tracker)](https://github.com/Plezo/Fitkeeping)
+- 🔭 I’m currently working on [Onedue (Todo app)](https://github.com/Plezo/Onedue)
 
 - 🌱 I’m currently learning **Astrojs + React Native**
 
