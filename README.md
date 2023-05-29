@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Onedue (Todo app)](https://github.com/Plezo/Onedue)
 
-- 🌱 I’m currently learning **Astrojs + React Native**
+- 🌱 I’m currently learning **Nextjs + React Native**
 
 - 👨‍💻 You can find my portfolio at: [https://plezo.me/](https://plezo.me/)
 
