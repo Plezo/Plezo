@@ -1,9 +1,9 @@
 <h1>Hi there 👋, I'm Patryk</h1>
 <h3>Software Engineer & Full Stack Developer</h3>
 
-- 🔭 I’m currently working on [Bookkeeper](https://github.com/Plezo/Bookkeeper)
+- 🔭 I’m currently working on [Bet Wiz]([https://github.com/Plezo/Bookkeeper](https://betscreener.vercel.app/))
 
-- 🌱 I’m currently learning **Nextjs + React Native**
+- 🌱 I’m currently learning **Nextjs**
 
 - 👨‍💻 You can find my portfolio at: [https://plezo.me/](https://plezo.me/)
 
