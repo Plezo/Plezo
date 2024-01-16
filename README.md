@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Bet Wiz](https://www.betwiz.us/)
 
-- 🌱 I’m currently learning **Nextjs**
+- 🌱 I’m currently learning **Django**
 
 - 👨‍💻 You can find my portfolio at: [https://plezo.me/](https://plezo.me/)
 
