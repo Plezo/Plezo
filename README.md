@@ -1,7 +1,7 @@
 <h1>Hi there 👋, I'm Patryk</h1>
 <h3>Software Engineer & Full Stack Developer</h3>
 
-- 🔭 I’m currently working on [Bet Wiz](https://www.betwiz.us/)
+- 🔭 I’m currently working on [Betwiz](https://www.betwiz.us/)
 
 - 🌱 I’m currently learning **Django**
 
