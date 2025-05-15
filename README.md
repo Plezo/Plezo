@@ -1,5 +1,4 @@
 <h1>Hi there 👋, I'm Patryk</h1>
-<h3>Software Engineer</h3>
 
 - 🔭 I’m currently working on [Betwiz](https://www.betwiz.us/)
 
